@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mew101
 - 👀 I’m interested in Crypto
-- 🌱 I’m currently learning Javascript / Drupal
+- 🌱 I’m currently working with Javascript / Drupal
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
